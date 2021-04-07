@@ -2,7 +2,7 @@
 Проект выполнил Дмитрий Босый
 
 ## Используемые Технологии
--HTML
--CSS
--Normolize.css
--SVG-Sprites
+- HTML
+- CSS
+- Normolize.css
+- SVG-Sprites
